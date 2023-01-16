@@ -1,5 +1,5 @@
 - 👋 Hi, This is Muhammad Hannan
-- 👀 I've Skills in Java, Python, C++, C, Embedded C, HTML, CSS, JavaScript,React.js, PHP, Laravel  and Internet of Things(IoT)
+- 👀 I've Skills in Java, Python, C++, C, Embedded C, HTML, CSS, JavaScript, JQuery, React.js, PHP, Laravel  and Internet of Things(IoT)
 - 🌱 I’m Currently Studying Computer Engineering
 - 💞️ I’m Looking To Collaborate On New Projects.
 - 📫 You Can Reach Me By:
