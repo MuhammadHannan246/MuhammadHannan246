@@ -56,7 +56,6 @@ You can click the Preview link to take a look at your changes.
 ###
 
 <br clear="both">
+<!-- Add your own GitHub stats with this tool: https://github.com/DenverCoder1/github-readme-streak-stats -->
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YourUsername&theme=dark&background=0D1117&ring=36AE2D&fire=FFA500&sideNums=36AE2D&dates=36AE2D&stroke=36AE2D&currStreakNum=FFA500&sideLabels=FFA500)
