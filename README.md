@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Muhammad Hannan and I'm a Data Science and Machine Learning Engineer, from Karachi, Pakistan</h2>
+<h2 align="left">Hi 👋! My name is Muhammad Hannan and I'm a Machine Learning Engineer, from Pakistan</h2>
 
 ###
 
