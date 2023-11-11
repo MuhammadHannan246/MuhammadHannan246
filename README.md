@@ -17,11 +17,7 @@
 
 - 💬 Ask me about **ideas on DS, AI, & ML Projects**
 
-- 📫 How to reach me **sheikh.hannan06@gmail.com`**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- 📫 How to reach me **sheikh.hannan06@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
