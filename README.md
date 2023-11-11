@@ -7,17 +7,29 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working as **Hawkes Bay**
+- 🔭 I’m currently working as **a Data Scientist @ CodeAlpha**
+
+- 🌱 I’m currently learning **Kafka, Spark & Hadoop**
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 
+- 🤝 I’m looking for help with **Machine Learning Projects**
+
+- 💬 Ask me about **ideas on DS, AI, & ML Projects**
+
 - 📫 How to reach me **sheikh.hannan06@gmail.com`**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/muhammad-hannan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-hannan" height="30" width="40" /></a>
 <a href="https://kaggle.com/hannanmuhammad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hannanmuhammad" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100043759263191&mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100043759263191&mibextid=zbwkwl" height="30" width="40" /></a>
+<a href="https://fb.com/profile.php?id=100043759263191&mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100043759263191&mibextid=zbwkwl" height="30" width="40" /></a>
+<a href="https://instagram.com/muhammadhannan246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammadhannan246" height="30" width="40" /></a>
+<a href="https://medium.com/@sheikh.hannan06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sheikh.hannan06" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
