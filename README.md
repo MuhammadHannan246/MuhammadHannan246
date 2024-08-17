@@ -1,6 +1,9 @@
 # 💫 About Me:
 👋 Hi, I'm Muhammad Hannan!<br><br>🚀 Flutter Developer: Crafting smooth and responsive mobile apps with Flutter.<br>📊 Data Science Enthusiast: Turning raw data into actionable insights.<br>🤖 AI/ML Engineer: Building intelligent systems that learn and evolve.<br>🌱 Lifelong Learner: Continuously exploring new technologies and innovations.<br>💡 Problem Solver: Passionate about creating efficient and impactful solutions.
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=MuhammadHannan246&theme=cobalt&no-frame=false&no-bg=false&margin-w=4)
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100043759263191) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammad-hannan/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/26802405/muhammad-hannan) 
@@ -12,8 +15,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MuhammadHannan246&theme=vue-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadHannan246&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MuhammadHannan246&theme=cobalt&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
