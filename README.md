@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Muhammad Hannan!<br><br>🚀 Flutter Developer: Crafting smooth and responsive mobile apps with Flutter.<br>📊 Data Science Enthusiast: Turning raw data into actionable insights.<br>🤖 AI/ML Engineer: Building intelligent systems that learn and evolve.<br>🌱 Lifelong Learner: Continuously exploring new technologies and innovations.<br>💡 Problem Solver: Passionate about creating efficient and impactful solutions.
+👋 Hi, I'm Muhammad Hannan!<br><br>🚀 Flutter Developer: Crafting smooth, responsive and cross-platform Mobile Apps with Flutter.<br>📊 Data Science Enthusiast: Turning raw data into actionable insights.<br>🤖 AI/ML Engineer: Building intelligent systems that learn and evolve.<br>🌱 Lifelong Learner: Continuously exploring new technologies and innovations.<br>💡 Problem Solver: Passionate about creating efficient and impactful solutions.
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MuhammadHannan246&theme=cobalt&no-frame=false&no-bg=false&margin-w=4)
